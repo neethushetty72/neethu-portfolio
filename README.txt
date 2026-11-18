@@ -1,0 +1,1 @@
+NEETHU C M PORTFOLIO\nUpload index.html, style.css and script.js to the root of a public GitHub repository. Enable GitHub Pages from Settings > Pages > Deploy from a branch > main > /(root).\nProject descriptions are placeholders because detailed project information was not provided. Please update them accurately before sharing.
